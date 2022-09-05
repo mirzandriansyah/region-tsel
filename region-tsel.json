@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D04",
         "kode": "D04",
         "Region": "JABODETABEK",
@@ -1038,6 +1039,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D05",
         "kode": "D05",
         "Region": "JAWA BARAT",
@@ -2135,6 +2137,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D07",
         "kode": "D07",
         "Region": "JAWA TIMUR",
@@ -2413,6 +2416,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D09",
         "kode": "D09",
         "Region": "KALIMANTAN",
@@ -4300,6 +4304,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D102",
         "kode": "D102",
         "Region": "PUMA",
@@ -8702,6 +8707,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D01",
         "kode": "D01",
         "Region": "SUMBAGUT",
@@ -9231,6 +9237,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D02",
         "kode": "D02",
         "Region": "SUMBAGTENG",
@@ -11460,6 +11467,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D03",
         "kode": "D03",
         "Region": "SUMBAGSEL",
@@ -12451,6 +12459,7 @@
     {
       "type": "Feature",
       "properties": {
+        "country": "Indonesia",
         "ID": "D08",
         "kode": "D08",
         "Region": "BALI NUSRA",
