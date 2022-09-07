@@ -1032,7 +1032,7 @@
         "country": "Indonesia",
         "ID": "D04",
         "kode": "D04",
-        "Region": "JABODETABEK",
+        "Region": "JABODETABEK 3",
         "Keterangan": "Jakarta Bogor Depok Tangerang Bekasi"
       }
     },
@@ -1501,7 +1501,7 @@
         "country": "Indonesia",
         "ID": "D05",
         "kode": "D05",
-        "Region": "JAWA BARAT",
+        "Region": "JAWA BARAT 4",
         "Keterangan": "Terkecuali JABODETABEK"
       }
     },
@@ -2131,7 +2131,7 @@
         "country": "Indonesia",
         "ID": "D06",
         "kode": "D06",
-        "Region": "JAWA TENGAH",
+        "Region": "JAWA TENGAH 5",
         "Keterangan": "JAWA TENGAH"
       }
     },
@@ -2410,7 +2410,7 @@
         "country": "Indonesia",
         "ID": "D07",
         "kode": "D07",
-        "Region": "JAWA TIMUR",
+        "Region": "JAWA TIMUR 6",
         "Keterangan": "JAWA TIMUR"
       }
     },
@@ -3899,14 +3899,14 @@
               [ 110.7221, -3.00548 ]
             ]
           ]
-          
+
         ]
       },
       "properties": {
         "country": "Indonesia",
         "ID": "D09",
         "kode": "D09",
-        "Region": "KALIMANTAN",
+        "Region": "KALIMANTAN 8",
         "Keterangan": "Pulau Kalimantan"
       }
     },
@@ -8309,7 +8309,7 @@
         "country": "Indonesia",
         "ID": "D102",
         "kode": "D102",
-        "Region": "SUMALPAPUA",
+        "Region": "PUMA 11",
         "Keterangan": "Sulawesi Papua Maluku"
       }
     },
@@ -8839,7 +8839,7 @@
         "country": "Indonesia",
         "ID": "D01",
         "kode": "D01",
-        "Region": "SUMBAGUT",
+        "Region": "SUMBAGUT 1",
         "Keterangan": "Propinsi Sumatra Utara dan provinsi Aceh"
       }
     },
@@ -11069,7 +11069,7 @@
         "country": "Indonesia",
         "ID": "D02",
         "kode": "D02",
-        "Region": "SUMBAGTENG",
+        "Region": "SUMBAGTENG 10",
         "Keterangan": "Propinsi Sumatra Barat  dan provinsi Riau"
       }
     },
@@ -12061,7 +12061,7 @@
         "country": "Indonesia",
         "ID": "D03",
         "kode": "D03",
-        "Region": "SUMBAGSEL",
+        "Region": "SUMBAGSEL 2",
         "Keterangan": "Propinsi Bengkulu, Jambi, Lampung, Sumatera Selatan, Bangka Belitung"
       }
     },
@@ -13344,7 +13344,7 @@
         "country": "Indonesia",
         "ID": "D08",
         "kode": "D08",
-        "Region": "BALI NUSRA",
+        "Region": "BALI NUSRA 7",
         "Keterangan": "Propinsi Bali, Nusa Tenggara Barat, Nusa Tenggara Timur"
       }
     }
